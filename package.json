@@ -1,0 +1,13 @@
+{
+  "name": "typescript_design_architecture",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nakyamurya/typescript_design_architecture.git",
+  "author": "nakyamurya <nakyamurya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^16.4.6",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  }
+}
